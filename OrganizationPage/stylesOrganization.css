@@ -52,3 +52,9 @@ navbar {
 h1 {
     text-align: center;
 }
+
+.infobox {
+    color: black;
+    width: 10px;
+    height: 10px;
+}
